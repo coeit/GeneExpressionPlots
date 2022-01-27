@@ -1,0 +1,75 @@
+{
+  "type": "plotly",
+  "accessions": [
+    "PGSC0003DMT400039134"
+  ],
+  "data": [
+    {
+      "x": [
+        [
+          "Heat-Shock: Apical",
+          "Heat-Shock: Apical",
+          "Heat-Shock: Apical"
+        ],
+        [
+          "DAS-1",
+          "DAS-2",
+          "DAS-3"
+        ]
+      ],
+      "y": [
+        5.73452669124126,
+        12.259581637432499,
+        20.838595767010368
+      ],
+      "error_y": {
+        "type": "data",
+        "array": [
+          2.8308370665222924,
+          3.2491998274043707,
+          1.4276134912260319
+        ],
+        "visible": true
+      },
+      "type": "bar",
+      "name": "Heat-Shock: Apical",
+      "showlegend": true
+    },
+    {
+      "x": [
+        [
+          "Heat-Shock: Meristem",
+          "Heat-Shock: Meristem",
+          "Heat-Shock: Meristem"
+        ],
+        [
+          "DAS-1",
+          "DAS-2",
+          "DAS-3"
+        ]
+      ],
+      "y": [
+        23.064349606024,
+        17.09319519023393,
+        9.121526273441196
+      ],
+      "error_y": {
+        "type": "data",
+        "array": [
+          5.802869268061893,
+          3.916576648818741,
+          2.442517406441915
+        ],
+        "visible": true
+      },
+      "type": "bar",
+      "name": "Heat-Shock: Meristem",
+      "showlegend": true
+    }
+  ],
+  "options": {
+    "showlegend": true,
+    "showCaption": true,
+    "plotTitle": ""
+  }
+}
